@@ -40,7 +40,7 @@ Aquí convergen mis notas técnicas con mis investigaciones sobre **espiritualid
 
 #### 🐋 [Proyecto-Ballenas](https://github.com/andres-silva-zamorano/Proyecto-Ballenas)
 > *Investigación y Datos.*
-Espacio dedicado al procesamiento de datos, ciencia y análisis marino.
+Detección de manos fuertes (Ballenas) en los mercados financieros usando Data Science.
 
 #### ⚙️ [Config](https://github.com/andres-silva-zamorano/Config)
 > *Infraestructura Personal.*

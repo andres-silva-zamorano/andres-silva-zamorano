@@ -1,6 +1,6 @@
 # Hola, soy Andrés Silva Zamorano 👋
 
-> *Integrando la Ingeniería y la Consciencia. Gestionando la vida como código.*
+> *Integrando la Ingeniería y la Consciencia. Gestionando la vida como código..*
 
 Bienvenido a mi **Hub Personal**. Soy un profesional que navega entre dos mundos: la arquitectura de sistemas técnicos y la arquitectura del desarrollo humano. Aquí centralizo mis proyectos de código, mi base de conocimiento y mis iniciativas de contenido.
 
